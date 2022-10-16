@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Digital Payments Book</string>
+    <string name="facebook_app_id">760496765027882</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">748cec6fb44c019dd241f5bd4cb963ff</string>
+
+    <string name="title_activity_drawer">drawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="by_signing_in_you_accept_our_tearms_of_use_and_privacy_policy">By signing in you accept our tearms of use and Privacy policy.</string>
+    <string name="login">Login</string>
+    <string name="forgot_email_id_or_password">Forgot email id or password</string>
+    <string name="don_t_have_a_account_signup">Don\'t have a account? SignUp</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email id</string>
+    <string name="todo">TODO</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400266274305",
+    "project_id": "digital-payments-book",
+    "storage_bucket": "digital-payments-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400266274305:android:9aa679d148b8b6bf798200",
+        "android_client_info": {
+          "package_name": "com.project.digitalpaymentsbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400266274305-nhbqlk9l172amuc4v6k76b65aj8gj82t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaxejez7_JeHY_c9dDJZn5FxFQ6rD-IyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400266274305-nhbqlk9l172amuc4v6k76b65aj8gj82t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
